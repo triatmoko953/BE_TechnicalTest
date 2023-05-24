@@ -1,0 +1,15 @@
+C:\Users\Rapidtech\bootcamp\latihan\testBE\maxCount\bin\Debug\net7.0\maxCount.exe
+C:\Users\Rapidtech\bootcamp\latihan\testBE\maxCount\bin\Debug\net7.0\maxCount.deps.json
+C:\Users\Rapidtech\bootcamp\latihan\testBE\maxCount\bin\Debug\net7.0\maxCount.runtimeconfig.json
+C:\Users\Rapidtech\bootcamp\latihan\testBE\maxCount\bin\Debug\net7.0\maxCount.dll
+C:\Users\Rapidtech\bootcamp\latihan\testBE\maxCount\bin\Debug\net7.0\maxCount.pdb
+C:\Users\Rapidtech\bootcamp\latihan\testBE\maxCount\obj\Debug\net7.0\maxCount.csproj.AssemblyReference.cache
+C:\Users\Rapidtech\bootcamp\latihan\testBE\maxCount\obj\Debug\net7.0\maxCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rapidtech\bootcamp\latihan\testBE\maxCount\obj\Debug\net7.0\maxCount.AssemblyInfoInputs.cache
+C:\Users\Rapidtech\bootcamp\latihan\testBE\maxCount\obj\Debug\net7.0\maxCount.AssemblyInfo.cs
+C:\Users\Rapidtech\bootcamp\latihan\testBE\maxCount\obj\Debug\net7.0\maxCount.csproj.CoreCompileInputs.cache
+C:\Users\Rapidtech\bootcamp\latihan\testBE\maxCount\obj\Debug\net7.0\maxCount.dll
+C:\Users\Rapidtech\bootcamp\latihan\testBE\maxCount\obj\Debug\net7.0\refint\maxCount.dll
+C:\Users\Rapidtech\bootcamp\latihan\testBE\maxCount\obj\Debug\net7.0\maxCount.pdb
+C:\Users\Rapidtech\bootcamp\latihan\testBE\maxCount\obj\Debug\net7.0\maxCount.genruntimeconfig.cache
+C:\Users\Rapidtech\bootcamp\latihan\testBE\maxCount\obj\Debug\net7.0\ref\maxCount.dll
